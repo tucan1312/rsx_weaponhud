@@ -22,7 +22,7 @@ RSX Weapon HUD provides a clean RDR2-inspired interface that displays the player
 * https://forum.cfx.re/t/icons-3k-free-redm-optimised-inventory-icon-images-updated-frequently/5237259
 
 
+<img width="599" height="450" alt="3" src="https://github.com/user-attachments/assets/88234d8c-8cc2-4bf8-8e86-248433a3ba4e" />
+<img width="309" height="261" alt="2" src="https://github.com/user-attachments/assets/8a1e903d-c0da-462b-878f-97a439d28448" />
+<img width="153" height="208" alt="1" src="https://github.com/user-attachments/assets/b9d13514-140f-4ab9-bfeb-d00d9697d8ad" />
 
-<img width="153" height="208" alt="image" src="https://github.com/user-attachments/assets/f99bd0a4-5415-4c51-87fc-ffecfe0abd6c" />
-<img width="168" height="217" alt="image" src="https://github.com/user-attachments/assets/de5fe5e9-24a8-469f-969d-1ab97c353e29" />
-<img width="447" height="419" alt="image" src="https://github.com/user-attachments/assets/d8b35f2e-8488-43ca-a9bd-706aa991c25f" />
