@@ -1,6 +1,6 @@
 # RSX Weapon HUD
 
-RSX Weapon HUD provides a clean RDR2-inspired interface that displays the player's currently equipped weapon, ammunition count, and ammunition type using high-quality weapon icons and a minimal on-screen footprint.
+RSX Weapon HUD provides a clean RDR2-inspired interface that displays the player's currently equipped weapon, ammunition count
 
 ## Features
 
